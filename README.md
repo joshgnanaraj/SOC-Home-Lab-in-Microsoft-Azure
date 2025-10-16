@@ -33,5 +33,17 @@ You will:
 
 <img width="1361" height="782" alt="image" src="https://github.com/user-attachments/assets/7de1947b-c85e-4ab8-9909-60f0c91edbc0" />
 
+## 📈 Results
+- Captured thousands of real login attempts from global IPs  
+- Identified brute-force patterns and common attacker regions  
+- Created visual dashboards in Sentinel for analysis
+
+---
+
+## 🧩 Lessons Learned
+- Exposed systems get attacked within minutes of going live.  
+- Centralized logging and visibility are key to incident detection.  
+- Cloud-native SIEMs like Sentinel make analysis efficient.
+
 
 
